@@ -1,10 +1,10 @@
 # Patient-Monitoring-system
-# When no patient call for help
+# Fig1 - When no patient call for help
 ![](no_data.jpeg)
 
-# When patient1 call for help
+# Fig2 - When patient1 call for help
 ![](patient1.jpeg)
 
-# When patient2 call for help
+# Fig3 - When patient2 call for help
 ![](patient2.jpeg)
 
