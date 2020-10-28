@@ -1,7 +1,7 @@
 # Patient-Monitoring-system
 
 # Circuit for automation 
-![](Circuit.png)
+![](schematic.png)
 # Fig1 - When no patient call for help
 ![](no_data.jpeg)
 
